@@ -10,7 +10,8 @@ import Footer from './components/Footer.jsx';
 import 'animate.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
-import Preloader from './components/PreLoader.jsx';
+import Preloader from './components/Preloader.jsx';
+
 // ..
 AOS.init();
 
